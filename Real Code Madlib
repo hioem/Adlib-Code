@@ -18,7 +18,7 @@ public class MadlibGenerator
         int month = keyboardInput.nextInt();
         System.out.print("Enter the number day: ");
         int day = keyboardInput.nextInt();
-        System.out.print("Enter the number day: ");
+        System.out.print("Enter the number year: ");
         int year = keyboardInput.nextInt();
         keyboardInput.nextLine();
         System.out.print("Enter a person: ");
